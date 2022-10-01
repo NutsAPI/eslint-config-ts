@@ -1,0 +1,16 @@
+{
+  "name": "@nutsapi/eslint-config-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NutsAPI/eslint-config-ts.git",
+  "author": "aspulse <aspulse.x@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 8",
+    "typescript": ">= 2.8"    
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.38.1",
+    "@typescript-eslint/parser": "^5.38.1"
+  }
+}
