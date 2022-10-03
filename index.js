@@ -41,6 +41,5 @@ module.exports = {
       }
     ],
     "comma-dangle": ["error", "always-multiline"],
-    "react/no-unknown-property": ["error", { "ignore": ["css"] }]
   }
 };
